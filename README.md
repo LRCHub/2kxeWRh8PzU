@@ -1,0 +1,44 @@
+# どんぐりず – NO WAY
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+let me tell you, ただこれが好きなだけ
+何が悪い ビートに転がる俺の口
+適当こなして生きてりゃいい
+もうジャンケンポンで決めちゃえばいい
+ただ待ってる だけじゃ意味ないだろ
+絡まってる なんでもかんでも
+温まってる 俺はメラメラメン
+俺の勝手 ちんぷんかんぷん野郎共は3分間ももたない
+ね win 俺またやっちゃったね and I keep するアチ
+チなマインド I'm rich 要は気の持ちようだってこと
+意味なんてなーいよ大体 好きなようやって踊ったら
+こんなんなっちまって待ったなしalright
+I'm high
+tiki dang dang no way
+gimme gimme the mic and the showcase
+死ぬまで死なない適当やっとけ
+life is a one game
+そんなん当たり前やることやっとけ
+money 丸儲け
+everybody needs dollar dollar yen yen
+but I know better don't care
+意味なんかないね
+知らんぺったんshut down, bitch
+relax in the morning, bitch
+嬢ちゃん坊ちゃんdance with me
+どうでもいいけど実際which
+知らんぺったんshut down, bitch
+ただ待ってる だけじゃ意味ないだろ
+絡まってる なんでもかんでも
+温まってる 俺はメラメラメン
+俺の勝手 ちんぷんかんぷん野郎共は3分間ももたない
+ね win 俺またやっちゃったね and I keep するアチ
+チなマインド I'm rich 要は気の持ちようだってこと
+意味なんてなーいよ大体 好きなようやって踊ったら
+こんなんなっちまって待ったなしalright
+I'm high
+now ready oh baby
+てな調子でみな陽気に
+```
