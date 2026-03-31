@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "NO WAY",
   "base_artist": "どんぐりず",
-  "createdAt": "2026-03-28T14:16:08.483720Z",
+  "createdAt": "2026-03-31T19:30:16.678714Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "どんぐりず",
       "has_synced": false,
       "path": "select/pl_01_NO_WAY_どんぐりず.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "NO WAY",
+      "artist": "どんぐりず",
+      "has_synced": false,
+      "path": "select/localdb_01_NO_WAY_どんぐりず.txt",
+      "repo_name": "2kxeWRh8PzU"
     }
   ]
 }
